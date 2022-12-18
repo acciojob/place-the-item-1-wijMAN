@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 50px;
+}
