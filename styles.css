@@ -4,7 +4,7 @@ body{
     padding: 0px;
     margin: 0px;
 }
-.main{
+.holder{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
